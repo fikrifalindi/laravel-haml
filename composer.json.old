@@ -1,10 +1,10 @@
 {
     "name": "fkrfld/laravelhaml",
     "description": "Wraps MtHaml for ease use in Laravel",
-    "type": "composer-plugin",
+    "type": "library",
     "require": {
-        "illuminate/support": "10",
-        "illuminate/view": "10",
+        "illuminate/support": "^11.33",
+        "illuminate/view": "^11.33",
         "mthaml/mthaml": "^1.8"
     },
     "license": "MIT",
