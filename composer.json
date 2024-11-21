@@ -3,8 +3,8 @@
     "description": "Wraps MtHaml for ease use in Laravel",
     "type": "composer-plugin",
     "require": {
-        "illuminate/support": "v10",
-        "illuminate/view": "v10",
+        "illuminate/support": "8 - 11",
+        "illuminate/view": "8 - 11",
         "mthaml/mthaml": "^1.8"
     },
     "license": "MIT",
