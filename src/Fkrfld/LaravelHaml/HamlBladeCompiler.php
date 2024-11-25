@@ -1,4 +1,4 @@
-<?php namespace Bkwld\LaravelHaml;
+<?php namespace Fkrfld\LaravelHaml;
 
 // Dependencies
 use Illuminate\View\Compilers\BladeCompiler;
